@@ -1,4 +1,5 @@
 {
   "editor.fontSize": 14,
-  "editor.fontFamily": "'Fira Code Retina'"
+  "editor.fontFamily": "'Fira Code'",
+  "editor.accessibilitySupport": "off"
 }
