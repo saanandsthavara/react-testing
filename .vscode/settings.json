@@ -3,3 +3,18 @@
   "editor.fontFamily": "'Fira Code'",
   "editor.accessibilitySupport": "off"
 }
+
+// Graph QL
+
+// RPC : Remote Procedure Call
+
+//tRPC : Typescript Procedure Call
+
+// should have mono repo
+
+// http2
+// close communication with client and server
+// small bundle size
+// nested data will not be handled in tRPC
+
+// grpc - protocol buffers
